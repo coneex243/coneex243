@@ -1,4 +1,4 @@
-### Стек
+### Стек/stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" />
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20" />
 </p>
 
-### Ссылки
+### Ссылки/urls
 
 <p align="left">
   <a href="https://quuvec.itch.io/">
