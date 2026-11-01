@@ -13,8 +13,8 @@
 ### Ссылки
 
 <p align="left">
-  <a href="(https://quuvec.itch.io/)">
-    <img src="https://img.shields.io/badge/itch.io-VRYB-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="20" />
+  <a href="https://quuvec.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-quuvec-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="20" />
   </a>
   <a href="https://t.me/genageshka2">
     <img src="https://img.shields.io/badge/Telegram-@genageshka2-2CA5E0?style=flat&logo=telegram&logoColor=white" height="20" />
