@@ -13,7 +13,7 @@
 ### Ссылки
 
 <p align="left">
-  <a href="https://quuvec.itch.io/vryb">
+  <a href="[https://quuvec.itch.io/vryb](https://quuvec.itch.io/)">
     <img src="https://img.shields.io/badge/itch.io-VRYB-FA5C5C?style=flat&logo=itchdotio&logoColor=white" height="20" />
   </a>
   <a href="https://t.me/genageshka2">
